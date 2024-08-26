@@ -57,9 +57,9 @@
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com?user=krauszie&theme=github-dark-dimmed&border_radius=10&card_height=200" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=krauszie&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&card_height=195" alt="readme stats" />
+  <img width=390 height=200 src="https://github-readme-stats.vercel.app/api?username=krauszie&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krauszie&layout=compact" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krauszie&layout=compact&theme=react" alt="top langs" />
 </div>
 
 <br/><br/>
